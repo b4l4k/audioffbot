@@ -5,7 +5,7 @@ Telegram Audio Photo Bot is a Python application that interacts with Telegram to
 ## Installation
 
 To be able to use the repository, you should have a Telegram bot created.
-Once your bot is created you should create a file named config.py where the api key will be introduced like that API_KEY='your-api-key'
+Once your bot is created you should edit a file named config.py where the api key will be introduced like that API_KEY='your-api-key' (Inside the quotes)
 
 Appart from that is necessary to install all the libraries (from requirements.txt), including ffmpeg and dlib (I attach links where you can find them):
 - Link for ffmpeg: https://ffmpeg.org/download.html 
