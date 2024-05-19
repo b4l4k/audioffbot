@@ -8,8 +8,8 @@ To be able to use the repository, you should have a Telegram bot created.
 Once your bot is created you should create a file named config.py where the api key will be introduced like that API_KEY='your-api-key'
 
 Appart from that is necessary to install all the libraries (from requirements.txt), including ffmpeg and dlib (I attach links where you can find them):
-  Link for ffmpeg: https://ffmpeg.org/download.html 
-  Link for dlib: https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+- Link for ffmpeg: https://ffmpeg.org/download.html 
+- Link for dlib: https://github.com/z-mahmud22/Dlib_Windows_Python3.x
 
 ## Contact Information
 
